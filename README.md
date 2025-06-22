@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Zhenjie</h1>
-<h3 align="left">A passionate AI/ML Engineer from Singapore</h3>
+<h3 align="left">A passionate Data Scientist from Singapore</h3>
 
+- 🌟 My specializations are **Data Science, Data Analytics, Data Engineering, AI/ML Engineering**
 - 🌱 I’m currently learning **Cloud, Frontend and Big Data**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzhenjie01" alt="zzhenjie01" /></a> </p>
